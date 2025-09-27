@@ -2,12 +2,17 @@
 
 1. Clone the repo
    git clone https://github.com/shashankshekhar2004/Report_Summary_Plum.git
+
    cd server
+
 2. Install dependencies
+
    npm install
 
 3. Set up environment variables
+
    GEMINI_API_KEY=your_gemini_api_key
+
    GEMINI_API=https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent
 
 4. Run the server
@@ -26,28 +31,3 @@ Google Gemini API (Summarization)
 Multer (File uploads)
 
 dotenv (Environment variables)
-
-📜 License
-This project is licensed under the MIT License.
-
-About
-No description, website, or topics provided.
-Resources
-Readme
-Activity
-Stars
-0 stars
-Watchers
-0 watching
-Forks
-0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Languages
-JavaScript
-100.0%
-Footer
-© 2025 G
