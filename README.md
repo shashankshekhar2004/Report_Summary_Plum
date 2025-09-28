@@ -25,6 +25,7 @@
    one more thing if it is not related to medical tests or reports give output as it is not related to medical reports "
 
 4. Run the server
+
    npm run server
 
 Example Response:
